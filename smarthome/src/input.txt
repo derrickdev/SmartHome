@@ -1,0 +1,4 @@
+lamp living_room on from 18:00 to 21:00
+media tv on from 11:00 to 15:00
+lamp bedroom on from 21:00 to 23:00
+conditioner main 23 always
